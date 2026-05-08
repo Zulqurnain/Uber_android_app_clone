@@ -24,3 +24,9 @@ Place Autocomplete: https://developers.google.com/places/android-api/autocomplet
 Google-Directions-Android: :https://github.com/jd-alexander/google-directions-android<br />
 
 P.S: If ou're going to download the full project please use your own firebase API, the one in the project will NOT be mantained and the app may not work.
+
+---
+
+**Built by [Zulqurnain Haider](https://zulqurnainj.com/) — Senior Full Stack Engineer**
+
+For full portfolio visit: https://zulqurnainj.com/
